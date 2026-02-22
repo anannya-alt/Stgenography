@@ -1,0 +1,12 @@
+Steganography-Tool/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── static/
+├── templates/
+├── uploads/   (empty folder)
+└── screenshots/
+
+Flask
+Pillow
